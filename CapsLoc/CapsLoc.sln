@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapsLoc", "CapsLoc\CapsLoc.csproj", "{CC75C5A8-CCFE-4907-8525-FA7BA5DC549F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapsLoc.Plugin", "CapsLoc.Plugin\CapsLoc.Plugin.csproj", "{302B03BB-E916-4FCA-B3E9-6A99E11B104B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapsLoc.Plugin.Everything", "CapsLoc.Plugin.Everything\CapsLoc.Plugin.Everything.csproj", "{EE3E4272-3901-4C33-9C51-6A1BD43FFDAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC75C5A8-CCFE-4907-8525-FA7BA5DC549F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC75C5A8-CCFE-4907-8525-FA7BA5DC549F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC75C5A8-CCFE-4907-8525-FA7BA5DC549F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC75C5A8-CCFE-4907-8525-FA7BA5DC549F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302B03BB-E916-4FCA-B3E9-6A99E11B104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302B03BB-E916-4FCA-B3E9-6A99E11B104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302B03BB-E916-4FCA-B3E9-6A99E11B104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302B03BB-E916-4FCA-B3E9-6A99E11B104B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE3E4272-3901-4C33-9C51-6A1BD43FFDAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3E4272-3901-4C33-9C51-6A1BD43FFDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3E4272-3901-4C33-9C51-6A1BD43FFDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3E4272-3901-4C33-9C51-6A1BD43FFDAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
