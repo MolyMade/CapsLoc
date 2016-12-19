@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapsLoc.Plugin.Everything
+namespace CapsLoc.Plugin
 {
-    public class Class1
+    class Consts
     {
     }
 }

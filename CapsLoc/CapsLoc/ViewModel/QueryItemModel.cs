@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CapsLoc.Plugin
+namespace CapsLoc.ViewModel
 {
-    public class Class1
+    class QueryItemModel
     {
     }
 }
